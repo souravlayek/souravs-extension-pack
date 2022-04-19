@@ -1,0 +1,15 @@
+{
+    "name": "souravs-extension-pack",
+    "displayName": "Sourav's Extension Pack",
+    "description": "A complete package with good looks and functionalities",
+    "version": "0.0.1",
+    "engines": {
+        "vscode": "^1.66.0"
+    },
+    "categories": [
+        "Extension Packs"
+    ],
+    "extensionPack": [
+        "publisher.extensionName"
+    ]
+}
