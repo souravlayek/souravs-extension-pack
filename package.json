@@ -3,6 +3,23 @@
     "displayName": "Sourav's Extension Pack",
     "description": "A complete package with good looks and functionalities",
     "version": "0.0.1",
+    "homepage": "https://github.com/souravlayek/VS-Todo-Extension",
+    "publisher": "souravlayek",
+    "license": "GPL-3.0-only",
+    "repository": {
+      "type": "git",
+      "url": "https://github.com/souravlayek/souravs-extension-pack"
+    },
+    "bugs": {
+      "url": "https://github.com/souravlayek/souravs-extension-pack/issues"
+    },
+    "icon": "icon.png",
+    "keywords": [
+      "extension pack",
+      "sourav",
+      "souravlayek",
+      "vstodo"
+    ],
     "engines": {
         "vscode": "^1.66.0"
     },

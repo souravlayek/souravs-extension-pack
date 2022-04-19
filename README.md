@@ -1,6 +1,4 @@
-# README
-
-## This is the README for your extension pack "sourav-extension-pack"
+## Sourav's Extension Pack
 ____
 
 ## Release Notes
